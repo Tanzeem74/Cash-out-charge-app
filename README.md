@@ -1,16 +1,16 @@
-# cash_out_calculator
+📌 Project Description
 
-A new Flutter project.
+A simple Cash Out Charge Calculator App developed as part of my Smart Application Development course;s Assignment.
+It helps users to quickly calculate cash out charges based on amount and service provider rules.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+  -Easy to use interface
 
-A few resources to get you started if this is your first Flutter project:
+  -Instant cash out charge calculation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  -Lightweight and responsive
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📚 Tech Stack
+
+  -Flutter (Dart)
